@@ -1,12 +1,12 @@
-# Amaro teste técnico Frontend
+# Redux practice
 
-## Para iniciar o projeto
+## Prerequisites and running
 - node v22.2.0
 - npm install
 - npm run dev
-- Acessar projeto em http://localhost:5173/
+- Access em http://localhost:5173/
 
-## Bibliotecas utilizadas
+## Libraries
 - axios
 - React-redux
 - material-ui
